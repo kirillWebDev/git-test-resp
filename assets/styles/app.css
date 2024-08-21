@@ -1,0 +1,9 @@
+.admin-bar .header {
+	top: 32px;
+}	
+
+h1.logo_wrap.header_mod {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+}
