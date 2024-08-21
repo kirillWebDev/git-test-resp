@@ -91,8 +91,9 @@
 		console.log(likes([]));
 		console.log(likes(['Peter']));
 		console.log(likes(['Jacob', 'Alex']));
-		console.log(likes(['Max', 'John', 'Mark']));
+		console.log(likes(['Max', 'John', 'Marфk']));
 		console.log(likes(['Alex', 'Jacob', 'Mark', 'Max']))
+		console.log(likes(['Alex', 'Jacob', 'Mark', 'Max', 'OIMOKMLMK']))
 		console.log(likes(['Alex', 'Jacob', 'Mark', 'Max', 'OIMOKMLMK']))
 
 	</script>
